@@ -1,0 +1,13 @@
+body {
+   
+    background-color:rgb(198, 151, 245, 1);
+    display: flex; 
+    flex-direction: column;
+    justify-content: center;
+}
+.p5Canvas {
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
